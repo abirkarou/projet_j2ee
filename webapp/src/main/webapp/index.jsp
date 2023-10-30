@@ -1,2 +1,2 @@
-<h1>hello,Welcome to DevOps ISETKR 2023 !!! Deploiement avec GIT-->jenkins-->webapp.war-->serveur d'application Tomcat abirkaroui</h1>
+<h1>Welcome to DevOps ISETKR 2023 !!! Deploiement avec GIT-->Github-->jenkins-->webapp.war-->container Tomcat puis on peut afficher</h1>
 
